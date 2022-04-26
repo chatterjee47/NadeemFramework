@@ -9,9 +9,9 @@
     <classes>
       <class name="testclasses.TestClassUsingListeners">
         <methods>
-          <include name="tc9"/>
-          <include name="tc8"/>
-          <include name="tc7"/>
+          <include name="tc4"/>
+          <include name="tc3"/>
+          <include name="tc2"/>
           <include name="setupBrwoser"/>
           <include name="TearDown"/>
         </methods>
